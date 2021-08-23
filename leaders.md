@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nitin Choudhury](mailto:nitin.choudhury@owasp.org)
+* [Satyajit Sarmah](mailto:satyajit.sarmah@owasp.org)
