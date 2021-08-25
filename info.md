@@ -1,5 +1,5 @@
 ### Chapter Information
-![OWASP www-chapter-owasp-gauhati-university](assets/images/OWASP_wbg.png
+![OWASP www-chapter-owasp-gauhati-university](assets/images/OWASP_GU.png
 "OWASP Gauhati University Chapter")
 
 ### Social Links
