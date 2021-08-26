@@ -4,7 +4,8 @@
 
 ### Social Links
 
-Follow Us on Instagram(https://instagram.com/owasp.gauhati.university)
+Follow Us on:
+[Instagram](https://instagram.com/owasp.gauhati.university)
 
 ### Become speaker
 
