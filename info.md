@@ -4,7 +4,7 @@
 
 ### Social Links
 
-`Will be available soon !`
+Follow Us on Instagram(https://instagram.com/owasp.gauhati.university)
 
 ### Become speaker
 
