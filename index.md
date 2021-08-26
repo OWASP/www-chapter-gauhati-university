@@ -19,7 +19,7 @@ OWASP Gauhati University is a student chapter of OWASP for Gauhati University. T
 </div>
 
 ## Welcome
-OWASP Gauhati University Chapter is found by a group of security enthusiast cum researcher to give the students of Gauhati University a community to share knowledge as well as contribute in the field of Cyber Security.
+OWASP Gauhati University Chapter is found by a group of security enthusiasts cum researchers to give the students of Gauhati University a community to share knowledge as well as contribute in the field of Cyber Security.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
