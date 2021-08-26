@@ -7,6 +7,7 @@
 Follow Us on:
 
 [Instagram](https://instagram.com/owasp.gauhati.university)
+
 [LinkedIN](https://www.linkedin.com/company/owasp-gauhati-university/)
 
 
