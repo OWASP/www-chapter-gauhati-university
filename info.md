@@ -1,9 +1,12 @@
 ### Chapter Information
 
 ### Social Links
-* [Instagram](https://instagram.com/owasp.gauhati.university)
+* [Instagram](https://www.instagram.com/owasp.gauhati.university/)
+* [LinkedIn](https://www.linkedin.com/company/owasp-gauhati-university)
 
-* [LinkedIN](https://www.linkedin.com/company/owasp-gauhati-university/)
+## Blogs and Research
+* [Medium](https://medium.com/owasp-chennai)
+
 
 
 ### Become speaker
