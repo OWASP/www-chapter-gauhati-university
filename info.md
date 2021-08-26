@@ -1,9 +1,6 @@
 ### Chapter Information
-![OWASP www-chapter-owasp-gauhati-university](assets/images/OWASP_GU.png
-"OWASP Gauhati University Chapter")
 
 ### Social Links
-
 * [Instagram](https://instagram.com/owasp.gauhati.university)
 
 * [LinkedIN](https://www.linkedin.com/company/owasp-gauhati-university/)
