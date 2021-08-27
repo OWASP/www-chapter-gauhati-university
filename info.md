@@ -4,10 +4,6 @@
 * [Instagram](https://www.instagram.com/owasp.gauhati.university/)
 * [LinkedIn](https://www.linkedin.com/company/owasp-gauhati-university)
 
-## Blogs and Research
-* [Medium](https://medium.com/owasp-chennai)
-
-
 
 ### Become speaker
 
