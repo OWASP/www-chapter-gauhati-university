@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Gauhati University
+title: OWASP Gauhati University - Student Chapter
 tags: owasp-gauhati
 region: Asia
 State: Assam
