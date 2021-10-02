@@ -17,7 +17,7 @@ Postal Code: 781014
 
 <div style='color:#728FCE;'>
 
-OWASP Gauhati University is a student chapter of OWASP for Gauhati University. The main aim of creating this community to bring the interested students forward and provide them a community so that they can learn as well as contribute in the concern field.
+OWASP Gauhati University is a local student chapter for the students who are interested and enthusiastic about Cyber Security. The main purpose of this chapter is to bring the interested students forward and provide them a community so that they can learn as well as contribute in the concern field.
 
 
 </div>
