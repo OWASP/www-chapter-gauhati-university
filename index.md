@@ -7,6 +7,7 @@ region: Asia
 State: Assam
 University: Gauhati University
 Country: India
+meetup group:
 Postal Code: 781014
 
 ---
