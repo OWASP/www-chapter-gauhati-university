@@ -6,7 +6,7 @@ tags: owasp-gauhati
 region: Asia
 State: Assam
 University: Gauhati University
-Country: India
+country: India
 meetup-group: owasp-gauhati-university-student-chapter
 Postal Code: 781014
 
@@ -27,7 +27,7 @@ OWASP Gauhati University is a local student chapter for the students who are int
 OWASP Gauhati University Chapter is found by a group of security enthusiasts cum researchers to give the students of Gauhati University a community to share knowledge as well as contribute in the field of Cyber Security.
 
 ## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
